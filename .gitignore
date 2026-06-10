@@ -1,0 +1,25 @@
+# Data directories
+data/
+*.jp2
+*.tif
+*.tiff
+
+# Output directories
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
